@@ -1,0 +1,31 @@
+body{
+    color:rgba(255, 166, 0, 0.452);
+    font-weight:normal;
+    background-color:rgba(47, 230, 108, 0.651);
+    font: size 24px; ;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+    line:height: 1,5em;
+    margin:0;
+    width: 60%;
+    margin:auto;
+
+}
+
+.container{
+    width: 80%;
+        margin: auto;
+    
+    
+    }
+.box-1{
+    background-color: rgba(255, 251, 0, 0.596);
+       color:rgba(228, 30, 112, 0.623);
+       
+       border-right:15px rgb(104, 98, 91) solid;
+       border-left:15px rgb(85, 80, 73) solid;
+       border-bottom:15px rgb(107, 101, 94) solid;
+       border-top:15px rgb(126, 117, 105) solid;
+    
+    }
+

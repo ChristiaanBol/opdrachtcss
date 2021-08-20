@@ -1,0 +1,31 @@
+body{
+    color:mintcream;
+    font-weight:normal;
+    background-color:mediumaquamarine;
+    font-size:16px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+    line:height: 1,8em;
+    margin:0;
+    width: 75%;
+    margin:auto;
+
+}
+
+.container{
+    width: 80%;
+        margin: auto;
+    
+    
+    }
+.box-1{
+    background-color: rgb(96, 163, 75);
+       color:rgb(216, 25, 25);
+       
+       border-right:15px rgb(128, 0, 128) solid;
+       border-left:15px rgb(128, 0, 139) solid;
+       border-bottom:15px rgb(114, 0, 129) solid;
+       border-top:15px rgb(102, 0, 128) solid;
+    
+    }
+
